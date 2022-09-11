@@ -1,0 +1,97 @@
+﻿{
+  "configurations": [
+    {      
+      "output": true,
+      "baseFolder": ".\\",
+      "items": [
+       
+	    {
+          "map": "PDFs\\Whitireia_Sprints_20220703_Orange_Part_1.pdf",
+          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Orange_Part_1.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\OW_Official_Map_Border.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+		{
+          "map": "PDFs\\Whitireia_Sprints_20220703_Orange_Part_2.pdf",
+          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Orange_Part_2.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\OW_Official_Map_Border.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+		{
+          "map": "PDFs\\Whitireia_Sprints_20220703_Red_1_Part_1.pdf",
+          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Red_1_Part_1.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\OW_Official_Map_Border.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+		{
+          "map": "PDFs\\Whitireia_Sprints_20220703_Red_1_Part_2.pdf",
+          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Red_1_Part_2.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\OW_Official_Map_Border.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+		{
+          "map": "PDFs\\Whitireia_Sprints_20220703_Red_2.pdf",
+          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Red_2.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\OW_Official_Map_Border.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+		{
+          "map": "PDFs\\Whitireia_Sprints_20220703_White.pdf",
+          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_White.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\OW_Official_Map_Border.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+				{
+          "map": "PDFs\\Whitireia_Sprints_20220703_Yellow.pdf",
+          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Yellow.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\OW_Official_Map_Border.png",
+              "pattern": "all"
+            }
+          ]
+        },
+		
+        
+      ]
+    }
+  ]
+}
+
