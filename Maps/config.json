@@ -6,90 +6,65 @@
       "items": [
        
 	    {
-          "map": "PDFs\\Whitireia_Sprints_20220703_Orange_Part_1.pdf",
-          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Orange_Part_1.pdf",
+          "map": "PDFs\\Rangituhi_2022_White.pdf",
+          "out": "PDFs\\Framed_Rangituhi_2022_White.pdf",
           "output": true,
           "stamps": [
             {
-              "frame": "Frames\\OW_Official_Map_Border.png",
+              "frame": "Frames\\RangituhiParklandA4.png",
               "pattern": "all"
             }
           ]
         },
 		
-		{
-          "map": "PDFs\\Whitireia_Sprints_20220703_Orange_Part_2.pdf",
-          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Orange_Part_2.pdf",
+	    {
+          "map": "PDFs\\Rangituhi_2022_Yellow.pdf",
+          "out": "PDFs\\Framed_Rangituhi_2022_Yellow.pdf",
           "output": true,
           "stamps": [
             {
-              "frame": "Frames\\OW_Official_Map_Border.png",
+              "frame": "Frames\\RangituhiParklandA4.png",
+              "pattern": "all"
+            }
+          ]
+        },
+
+	    {
+          "map": "PDFs\\Rangituhi_2022_Orange.pdf",
+          "out": "PDFs\\Framed_Rangituhi_2022_Orange.pdf",
+          "output": true,
+          "stamps": [
+            {
+              "frame": "Frames\\RangituhiParklandA3.png",
               "pattern": "all"
             }
           ]
         },
 		
-		{
-          "map": "PDFs\\Whitireia_Sprints_20220703_Red_1_Part_1.pdf",
-          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Red_1_Part_1.pdf",
+	    {
+          "map": "PDFs\\Rangituhi_2022_Red_Short.pdf",
+          "out": "PDFs\\Framed_Rangituhi_2022_Red_Short.pdf",
           "output": true,
           "stamps": [
             {
-              "frame": "Frames\\OW_Official_Map_Border.png",
+              "frame": "Frames\\RangituhiParklandA4.png",
               "pattern": "all"
             }
           ]
         },
 		
-		{
-          "map": "PDFs\\Whitireia_Sprints_20220703_Red_1_Part_2.pdf",
-          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Red_1_Part_2.pdf",
+	    {
+          "map": "PDFs\\Rangituhi_2022_Red_Long.pdf",
+          "out": "PDFs\\Framed_Rangituhi_2022_Red_Long.pdf",
           "output": true,
           "stamps": [
             {
-              "frame": "Frames\\OW_Official_Map_Border.png",
+              "frame": "Frames\\RangituhiParklandA3.png",
               "pattern": "all"
             }
           ]
-        },
-		
-		{
-          "map": "PDFs\\Whitireia_Sprints_20220703_Red_2.pdf",
-          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Red_2.pdf",
-          "output": true,
-          "stamps": [
-            {
-              "frame": "Frames\\OW_Official_Map_Border.png",
-              "pattern": "all"
-            }
-          ]
-        },
-		
-		{
-          "map": "PDFs\\Whitireia_Sprints_20220703_White.pdf",
-          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_White.pdf",
-          "output": true,
-          "stamps": [
-            {
-              "frame": "Frames\\OW_Official_Map_Border.png",
-              "pattern": "all"
-            }
-          ]
-        },
-		
-				{
-          "map": "PDFs\\Whitireia_Sprints_20220703_Yellow.pdf",
-          "out": "PDFs\\Framed_Whitireia_Sprints_20220703_Yellow.pdf",
-          "output": true,
-          "stamps": [
-            {
-              "frame": "Frames\\OW_Official_Map_Border.png",
-              "pattern": "all"
-            }
-          ]
-        },
-		
-        
+        }
+
       ]
     }
   ]
