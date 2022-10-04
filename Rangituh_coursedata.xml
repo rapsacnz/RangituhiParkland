@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CourseData xmlns="http://www.orienteering.org/datastandard/3.0"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            iofVersion="3.0"
+            createTime="2022-10-04T18:05:27"
+            creator="Condes version 10.3.3">
+
+	<Event>
+		<Name>Rangituhi 9/10/2022</Name>
+	</Event>
+
+	<RaceCourseData>
+		<Map>
+			<Scale>5000</Scale>
+			<MapPositionTopLeft x="-757.89" y="-156.31" />
+			<MapPositionBottomRight x="177.03" y="-1679.90" />
+		</Map>
+
+		<Control type="Control" modifyTime="2022-10-02T14:16:46">
+			<Id>101</Id>
+			<Position lng="174.8251557917" lat="-41.1413811436" />
+			<MapPosition x="-118.24" y="-702.39" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T14:17:01">
+			<Id>102</Id>
+			<Position lng="174.8258200015" lat="-41.1422509973" />
+			<MapPosition x="-101.13" y="-716.70" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:26:04">
+			<Id>103</Id>
+			<Position lng="174.8263117096" lat="-41.1422283381" />
+			<MapPosition x="-93.55" y="-713.39" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:26:22">
+			<Id>104</Id>
+			<Position lng="174.8261128209" lat="-41.1429145227" />
+			<MapPosition x="-91.45" y="-728.85" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:26:32">
+			<Id>105</Id>
+			<Position lng="174.8248222285" lat="-41.1432954568" />
+			<MapPosition x="-108.89" y="-744.24" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:27:00">
+			<Id>106</Id>
+			<Position lng="174.8272863802" lat="-41.1426834228" />
+			<MapPosition x="-74.71" y="-717.26" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T14:18:09">
+			<Id>107</Id>
+			<Position lng="174.8236521031" lat="-41.1431223155" />
+			<MapPosition x="-128.66" y="-747.38" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:27:42">
+			<Id>108</Id>
+			<Position lng="174.8268334503" lat="-41.1431330519" />
+			<MapPosition x="-78.42" y="-729.25" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:27:58">
+			<Id>109</Id>
+			<Position lng="174.8237372787" lat="-41.1436891530" />
+			<MapPosition x="-122.99" y="-758.71" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:28:19">
+			<Id>110</Id>
+			<Position lng="174.8251823309" lat="-41.1441252756" />
+			<MapPosition x="-96.88" y="-759.47" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:28:45">
+			<Id>111</Id>
+			<Position lng="174.8267146606" lat="-41.1440518886" />
+			<MapPosition x="-73.28" y="-749.10" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:29:14">
+			<Id>112</Id>
+			<Position lng="174.8262389462" lat="-41.1443336187" />
+			<MapPosition x="-78.63" y="-757.72" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:29:21">
+			<Id>113</Id>
+			<Position lng="174.8241053819" lat="-41.1442234061" />
+			<MapPosition x="-113.11" y="-767.73" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:29:33">
+			<Id>114</Id>
+			<Position lng="174.8246330032" lat="-41.1450871429" />
+			<MapPosition x="-98.20" y="-782.70" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:29:43">
+			<Id>115</Id>
+			<Position lng="174.8253549825" lat="-41.1452806192" />
+			<MapPosition x="-85.34" y="-782.57" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:30:06">
+			<Id>116</Id>
+			<Position lng="174.8249249968" lat="-41.1456434962" />
+			<MapPosition x="-89.35" y="-792.62" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:31:08">
+			<Id>117</Id>
+			<Position lng="174.8257115604" lat="-41.1459526824" />
+			<MapPosition x="-74.59" y="-794.53" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:31:58">
+			<Id>118</Id>
+			<Position lng="174.8235744784" lat="-41.1458807974" />
+			<MapPosition x="-108.83" y="-805.36" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:32:38">
+			<Id>119</Id>
+			<Position lng="174.8253860414" lat="-41.1466407829" />
+			<MapPosition x="-74.47" y="-810.76" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:33:12">
+			<Id>120</Id>
+			<Position lng="174.8239706238" lat="-41.1496142103" />
+			<MapPosition x="-74.09" y="-880.94" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:33:52">
+			<Id>121</Id>
+			<Position lng="174.8232298115" lat="-41.1507551975" />
+			<MapPosition x="-77.06" y="-909.01" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:34:20">
+			<Id>122</Id>
+			<Position lng="174.8220317756" lat="-41.1497381303" />
+			<MapPosition x="-103.71" y="-894.71" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:36:54">
+			<Id>123</Id>
+			<Position lng="174.8219576340" lat="-41.1494275578" />
+			<MapPosition x="-107.25" y="-888.66" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:37:24">
+			<Id>124</Id>
+			<Position lng="174.8215162856" lat="-41.1499196776" />
+			<MapPosition x="-110.45" y="-901.47" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:37:55">
+			<Id>125</Id>
+			<Position lng="174.8230705639" lat="-41.1521126993" />
+			<MapPosition x="-69.21" y="-938.24" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:38:31">
+			<Id>126</Id>
+			<Position lng="174.8216930645" lat="-41.1517464610" />
+			<MapPosition x="-93.72" y="-938.55" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:39:09">
+			<Id>127</Id>
+			<Position lng="174.8218016752" lat="-41.1534350680" />
+			<MapPosition x="-79.12" y="-973.14" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:39:41">
+			<Id>128</Id>
+			<Position lng="174.8211549202" lat="-41.1531894887" />
+			<MapPosition x="-91.19" y="-971.75" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:40:12">
+			<Id>129</Id>
+			<Position lng="174.8198154512" lat="-41.1533670328" />
+			<MapPosition x="-110.95" y="-983.18" />
+		</Control>
+		<Control type="Control" modifyTime="2022-10-02T15:40:28">
+			<Id>130</Id>
+			<Position lng="174.8204152214" lat="-41.1541025532" />
+			<MapPosition x="-95.88" y="-995.06" />
+		</Control>
+		<Control type="Finish" modifyTime="2022-10-02T15:41:01">
+			<Id>F</Id>
+			<Position lng="174.8273990606" lat="-41.1420941727" />
+			<MapPosition x="-77.43" y="-704.32" />
+		</Control>
+		<Control type="Start" modifyTime="2022-10-02T14:24:50">
+			<Id>S</Id>
+			<Position lng="174.8266832690" lat="-41.1410322080" />
+			<MapPosition x="-96.82" y="-686.30" />
+		</Control>
+
+		<Course
+			 modifyTime="2022-10-03T14:54:18">
+			<Name>Orange</Name>
+			<Length>2975</Length>
+			<Climb>0</Climb>
+			<CourseControl
+				type="Start">
+				<Control>S</Control>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>103</Control>
+				<LegLength>136</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>115</Control>
+				<LegLength>348</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>122</Control>
+				<LegLength>568</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>126</Control>
+				<LegLength>225</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>128</Control>
+				<LegLength>167</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>127</Control>
+				<LegLength>61</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>121</Control>
+				<LegLength>321</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>120</Control>
+				<LegLength>141</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>113</Control>
+				<LegLength>599</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>106</Control>
+				<LegLength>335</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Finish">
+				<Control>F</Control>
+				<LegLength>66</LegLength>
+			</CourseControl>
+		</Course>
+
+		<Course
+			 modifyTime="2022-10-02T13:22:38">
+			<Name>Red Long</Name>
+			<Length>3425</Length>
+			<Climb>0</Climb>
+			<CourseControl
+				type="Start">
+				<Control>S</Control>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>101</Control>
+				<LegLength>134</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>107</Control>
+				<LegLength>231</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>115</Control>
+				<LegLength>305</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>122</Control>
+				<LegLength>568</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>124</Control>
+				<LegLength>48</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>129</Control>
+				<LegLength>409</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>130</Control>
+				<LegLength>96</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>125</Control>
+				<LegLength>314</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>121</Control>
+				<LegLength>151</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>120</Control>
+				<LegLength>141</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>109</Control>
+				<LegLength>658</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>104</Control>
+				<LegLength>217</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Finish">
+				<Control>F</Control>
+				<LegLength>141</LegLength>
+			</CourseControl>
+		</Course>
+
+		<Course
+			 modifyTime="2022-10-02T14:33:33">
+			<Name>Red Short</Name>
+			<Length>2750</Length>
+			<Climb>0</Climb>
+			<CourseControl
+				type="Start">
+				<Control>S</Control>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>104</Control>
+				<LegLength>214</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>115</Control>
+				<LegLength>270</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>122</Control>
+				<LegLength>568</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>126</Control>
+				<LegLength>225</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>125</Control>
+				<LegLength>123</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>121</Control>
+				<LegLength>151</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>109</Control>
+				<LegLength>786</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>106</Control>
+				<LegLength>348</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Finish">
+				<Control>F</Control>
+				<LegLength>66</LegLength>
+			</CourseControl>
+		</Course>
+
+		<Course
+			 modifyTime="2022-10-02T15:54:30">
+			<Name>White</Name>
+			<Length>1100</Length>
+			<Climb>0</Climb>
+			<CourseControl
+				type="Start">
+				<Control>S</Control>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>102</Control>
+				<LegLength>154</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>105</Control>
+				<LegLength>143</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>114</Control>
+				<LegLength>200</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>116</Control>
+				<LegLength>66</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>117</Control>
+				<LegLength>74</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>112</Control>
+				<LegLength>185</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>111</Control>
+				<LegLength>51</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Finish">
+				<Control>F</Control>
+				<LegLength>225</LegLength>
+			</CourseControl>
+		</Course>
+
+		<Course
+			 modifyTime="2022-10-02T15:54:35">
+			<Name>Yellow</Name>
+			<Length>2075</Length>
+			<Climb>0</Climb>
+			<CourseControl
+				type="Start">
+				<Control>S</Control>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>103</Control>
+				<LegLength>136</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>110</Control>
+				<LegLength>231</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>118</Control>
+				<LegLength>237</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>123</Control>
+				<LegLength>417</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>120</Control>
+				<LegLength>170</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>119</Control>
+				<LegLength>351</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>117</Control>
+				<LegLength>81</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>111</Control>
+				<LegLength>227</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Control">
+				<Control>108</Control>
+				<LegLength>103</LegLength>
+			</CourseControl>
+			<CourseControl
+				type="Finish">
+				<Control>F</Control>
+				<LegLength>125</LegLength>
+			</CourseControl>
+		</Course>
+
+
+		<ClassCourseAssignment>
+			<ClassName>Orange</ClassName>
+			<CourseName>Orange</CourseName>
+		</ClassCourseAssignment>
+
+
+		<ClassCourseAssignment>
+			<ClassName>Red Long</ClassName>
+			<CourseName>Red Long</CourseName>
+		</ClassCourseAssignment>
+
+
+		<ClassCourseAssignment>
+			<ClassName>Red Short</ClassName>
+			<CourseName>Red Short</CourseName>
+		</ClassCourseAssignment>
+
+
+		<ClassCourseAssignment>
+			<ClassName>White</ClassName>
+			<CourseName>White</CourseName>
+		</ClassCourseAssignment>
+
+
+		<ClassCourseAssignment>
+			<ClassName>Yellow</ClassName>
+			<CourseName>Yellow</CourseName>
+		</ClassCourseAssignment>
+
+
+	</RaceCourseData>
+
+</CourseData>
